@@ -17,4 +17,4 @@ console.log(checkTree(root));
 const root2 = new TreeNode(5, new TreeNode(3), new TreeNode(1));
 console.log(checkTree(root2));
 
-// O(1)
+// time and space O(1)
